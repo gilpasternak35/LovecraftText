@@ -11,4 +11,4 @@ A 6 hour Hackathon project utilizing HuggingFace Transformers models to generate
 
 
 
-All code written concurrently and pair coded with @gilpasternak35
+All code written concurrently and pair coded with @limpa105
